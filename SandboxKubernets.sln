@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxKubernets", "SandboxKubernets\SandboxKubernets.csproj", "{DBFC8CE4-C49E-40C4-B7A9-91771C97E44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFC8CE4-C49E-40C4-B7A9-91771C97E44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFC8CE4-C49E-40C4-B7A9-91771C97E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFC8CE4-C49E-40C4-B7A9-91771C97E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFC8CE4-C49E-40C4-B7A9-91771C97E44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF36852-17C6-4961-8F14-737F70CDF667}
+	EndGlobalSection
+EndGlobal
